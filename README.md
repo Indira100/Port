@@ -152,7 +152,7 @@
         <div class="section-content">
             <center>
             <h2>Resume</h2>
-            <a href="https://WPS office.com/file/d/1Fjf9NlokC-6Cvk6CimvWKehDOOl8855V/view?usp=sharing" target="_blank" class="download-button">Download CV</a>
+            <a href="https:WPSoffice.com INDIRA RESUME.docxusp=sharing" target="_blank" class="download-button">Download WPS office</a>
         </center>
         </div>
         
